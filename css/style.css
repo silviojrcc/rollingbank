@@ -1,8 +1,12 @@
 .carousel-inner {
-    height: 600px;
-  }
+  height: 600px;
+}
 
-  .banner {
-    object-fit: cover;
-    height: 600px;
-  }
+.banner {
+  object-fit: cover;
+  height: 600px;
+}
+
+.bank-logo {
+  font-family: 'Black Han Sans', sans-serif;
+}
